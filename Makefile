@@ -8,4 +8,4 @@ install:
 	cp -rf . $(INSTALL_DIR))
 
 update:
-	
+	()
